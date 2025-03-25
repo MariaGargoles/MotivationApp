@@ -36,5 +36,4 @@ Esta app busca ser un refugio digital donde cada persona pueda cuidar de sí mis
 
 ## 💛 En desarrollo
 
-Este proyecto está en fase activa de desarrollo. Si te interesa colaborar o aportar ideas, ¡eres bienvenido/a!
-
+Este proyecto está en fase activa de desarrollo.
