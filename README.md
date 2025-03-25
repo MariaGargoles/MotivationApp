@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Motivational – App de Bienestar Emocional
 
-## Get started
+**Motivational** es una aplicación móvil desarrollada en React Native con backend en Laravel, pensada para acompañar a personas que atraviesan procesos de ansiedad, depresión o simplemente quieren llevar un registro emocional diario.
 
-1. Install dependencies
+La app está diseñada desde la experiencia real de quienes conviven con TDAH y otras sensibilidades emocionales, enfocándose en la empatía, la flexibilidad y el autocuidado.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🧠 Funcionalidades principales
 
-   ```bash
-    npx expo start
-   ```
+- Registro de emociones varias veces al día, con notas opcionales
+- Edición de entradas pasadas y visualización en un calendario mensual
+- Gráficos de evolución emocional por días, semanas o meses
+- Panel de autocuidado con frases, vídeos, técnicas personales
+- Blog emocional privado con entradas por fecha y categorías
+- Recordatorios personalizados de relajación o apoyo emocional (por la tarde)
+- Registro de medicación (no solo farmacológica) con alertas y seguimiento
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ⚙️ Tecnologías
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **Frontend:** React Native (Expo)
+- **Backend:** Laravel + API REST
+- **Base de datos:** MySQL / SQLite
+  
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🌱 Objetivo
 
-```bash
-npm run reset-project
-```
+Esta app busca ser un refugio digital donde cada persona pueda cuidar de sí misma a su ritmo, con herramientas simples, visuales y compasivas.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 💛 En desarrollo
 
-To learn more about developing your project with Expo, look at the following resources:
+Este proyecto está en fase activa de desarrollo. Si te interesa colaborar o aportar ideas, ¡eres bienvenido/a!
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
